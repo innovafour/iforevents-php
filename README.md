@@ -1,3 +1,5 @@
+> **Moved.** This SDK now lives in [innovafour/iforevents-sdks](https://github.com/innovafour/iforevents-sdks/tree/main/php). This repository is archived.
+
 # IForevents SDK for PHP
 
 The IForevents analytics SDK for PHP 8.1+: Laravel, Symfony, plain PHP,
